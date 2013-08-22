@@ -7,6 +7,9 @@ If you find any grammar error in the comments, please report. :)
 
 Developed with Xcode 4.6.3. Tested on iOS 6 but should work on every version with some corrections to the screen sizes and positioning.
 
+Special thanks to @dev_jac who helped me in the test phase.
+
+
 If you have any question contact me on Twitter, @BalestraPatrick.
 
 
